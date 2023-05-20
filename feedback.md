@@ -27,4 +27,7 @@ outputfile.cose();
 ```
 First you create an ofstream object that opens the file
 `gamedata/scores.txt`
-then you write to it using the `<<` lets you `insert formatted output` and then you close then file to avoid corruption
+then you write to it using the `<<` lets you `insert formatted output` and then you close then file to avoid corruption  
+    
+  
+Sources [CPlusPlus](https://cplusplus.com)
